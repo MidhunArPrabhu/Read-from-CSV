@@ -1,4 +1,4 @@
-# READ-FROM-CSV :
+# READ-FROM-CSV 
 
 
 ## AIM : 
@@ -28,7 +28,7 @@ End the program.
 
 
 ## PROGRAM :
-```
+```python
 Developed by: MIDHUN AZHAHU RAJA P
 RegisterNumber: 22008311
 
